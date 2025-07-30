@@ -142,7 +142,7 @@ Pull requests bienvenidos. Para cambios mayores, abra primero un issue y discút
 
 ## 🏛️ Licencia
 
-Software libre bajo licencia MIT.
+Software libre bajo GNU General Public License v3.0 (GNU GPLv3).
 
 ---
 
