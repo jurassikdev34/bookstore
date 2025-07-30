@@ -1,3 +1,8 @@
+
+"""
+Modelos de base de datos usando SQLAlchemy ORM.
+"""
+
 from sqlalchemy import Column, Integer, String, TIMESTAMP, func
 from database import Base
 
